@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @70Ophiuchi
+- 👋 Hi, I’m @70Ophiuchi (a.k.a. Saad), a Full-Stack Developer
 - 👀 I’m interested in Python, JavaScript, C++, Solidity and Qiskit
 - 🌱 I’m currently learning Python, Javascript and C++
 - 💞️ I’m looking to collaborate on everything
